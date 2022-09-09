@@ -15,7 +15,9 @@
 
 ---
 ## You can also see mine socials.💻
-<a href="https://instagram.com/m1sha4ks/">![Instagram](https://img.shields.io/badge/-m1sh4ks-ff00ff?style=for-the-badge&logo=instagram&logoColor=white&url=<https://www.instagram.com/m1sh4ks/>)</a>
+<a href="https://instagram.com/m1sha4ks/">![Instagram](https://img.shields.io/badge/-Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.facebook.com/people/Misha-Aksonow/100041779002683/">![facebook](https://img.shields.io/badge/-FACEBOOK-0000ff?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://www.youtube.com/channel/UCOqaR45g74g1ihZpORoyX3Q">![Youtube](https://img.shields.io/badge/-youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
 
 
