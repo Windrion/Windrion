@@ -12,7 +12,10 @@
 ![JS](https://img.shields.io/badge/-JavaScript-e5de00?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-ababab?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-22ed0c?style=for-the-badge&logo=html5&logoColor=white)
- 
+
+---
+## You can also see mine socials.💻
+<a src="https://www.instagram.com/m1sh4ks/">![Python](https://img.shields.io/badge/-m1sh4ks-ff00ff?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 
 
