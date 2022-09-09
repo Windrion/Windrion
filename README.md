@@ -15,7 +15,7 @@
 
 ---
 ## You can also see mine socials.💻
-<a src="https://www.instagram.com/m1sh4ks/">![Python](https://img.shields.io/badge/-m1sh4ks-ff00ff?style=for-the-badge&logo=instagram&logoColor=white)</a>
+![Python](https://img.shields.io/badge/-m1sh4ks-ff00ff?style=for-the-badge&logo=instagram&logoColor=white&url=<https://www.instagram.com/m1sh4ks/>)
 
 
 
