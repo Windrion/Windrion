@@ -13,6 +13,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-ababab?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-6bbbe3?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-0000ff?style=for-the-badge&logo=C%2b%2b&logoColor=white)
+![C](https://img.shields.io/badge/--ff1f00?style=for-the-badge&logo=c&logoColor=white)
 
 
 
